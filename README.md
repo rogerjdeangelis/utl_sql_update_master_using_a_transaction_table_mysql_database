@@ -1,0 +1,2 @@
+# utl_sql_update_master_using_a_transaction_table_mysql_database
+SQL update master using a transaction table mysql database. Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
